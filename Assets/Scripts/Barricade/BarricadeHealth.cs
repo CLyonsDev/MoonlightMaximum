@@ -5,7 +5,7 @@ using System.Collections;
 public class BarricadeHealth : MonoBehaviour {
 
     float currentHealth;
-    float maxHealth = 100;
+    float maxHealth = 125;
 
     public Image healthBar;
 
